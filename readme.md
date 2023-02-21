@@ -3,31 +3,29 @@
 
 ## ctrl modifer
 - moving back one word  
-    `ctrl + arrowkeys `
+    `ctrl + (left/right) arrowkey `
 
 - deleting one word  
     `ctrl + backspace`
 
 - selecting one word  
-   `ctrl + shift + arrowkeys`
+   `ctrl + shift + (left/right) arrowkey`
 
 
 # vscode shortcuts:
 
 ## moving lines
-- `alt + arrowkeys` (Win)
-- `option + arrowkeys` (Mac)
+- `alt + (up/down) arrowkey`
 
 ## copying lines
-- `alt + shift + arrowkeys` (Win)
-- `option + shift + arrowkeys` (Mac)
+- `alt + shift + (up/down) arrowkey`
 
 ## indenting | un-indenting
 - `ctrl + /`
 
 ## spawning cursor
-- `alt + left click` (Win)
-- `option + left click` (Mac) 
+- `alt + left click`
+- `ctrl + alt + shift + (up/down) arrowkey`
 
 ## multi line selections
 - `middle mouse button`
