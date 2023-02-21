@@ -15,24 +15,31 @@
 # vscode shortcuts:
 
 ## moving lines
-- `alt + arrowkeys (Win)`
-- `option + arrowkeys (Mac)`
+- `alt + arrowkeys` (Win)
+- `option + arrowkeys` (Mac)
 
 ## copying lines
-- `alt + shift + arrowkeys (Win)`
-- `option + shift + arrowkeys (Mac)`
+- `alt + shift + arrowkeys` (Win)
+- `option + shift + arrowkeys` (Mac)
 
 ## indenting | un-indenting
 - `ctrl + /`
 
 ## spawning cursor
-- `alt + left click`
+- `alt + left click` (Win)
+- `option + left click` (Mac) 
 
 ## multi line selections
 - `middle mouse button`
 
 ## going to definition
 - `ctrl + left click`
+
+## copy line
+- `ctrl + c`
+
+## cut line (useful for deleting a line)
+- `ctrl + x`
 
 # debugger shortcuts:
 
