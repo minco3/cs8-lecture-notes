@@ -11,8 +11,6 @@ int main()
 
     node<int>* head = new node<int>(5);
 
-    head->next = new node<int>(6, nullptr, head);
-
     for (int i=0; i<10; i++)
     {
         std::cout << i << std::endl;

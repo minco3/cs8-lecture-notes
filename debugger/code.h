@@ -7,7 +7,6 @@ void buzz(int &i);
 
 void infiniteLoop()
 {
-    infiniteLoop();
 }
 
 void foo(int &i)
